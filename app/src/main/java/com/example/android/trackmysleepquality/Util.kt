@@ -134,3 +134,4 @@ fun formatNights(nights: List<SleepNight>, resources: Resources): Spanned {
     }
 }
 
+
